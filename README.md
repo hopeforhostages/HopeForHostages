@@ -28,3 +28,9 @@ Please fill out [this form][1] and I will get back to you with ways you can help
 The code is in a private GitHub repository. The bulk of the website is written in PHP, with automation scripts written in Python, and the assets are generated with Puppeteer in JavaScript. Please fill out [the contribution form][1] and specify what you are interested in helping with and I will get back to you.
 
 [1]: https://docs.google.com/forms/d/e/1FAIpQLSdpTRYj1DYoArTjsN6tsTrTKHoyH2UCeE9XaWUdzvasKW0nfg/viewform
+
+## External Links
+
+* Home page - https://hopeforhostages.com
+* Issue Tracker - https://github.com/hopeforhostages/hopeforhostages/issues/new
+* Facebook - https://www.facebook.com/profile.php?id=61554725831341
