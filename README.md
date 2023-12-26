@@ -12,7 +12,7 @@ The following are some of the ways you can contribute:
 
 ### 🚀 Bug Reports and Feature Suggestions
 
-[Open an issue](https://github.com/hopeforhostages/hopeforhostages/issues/new) in this repository if you have suggestions on features to implement or bugs to report.
+[Open an issue](https://github.com/hopeforhostages/hopeforhostages/issues/new) in this repository or <a href="mailto:info@hopeforhostages.com?cc=&amp;bcc=&amp;subject=Hope%20for%20Hostages%3A%20&amp;body=Hi%20Jonah%2C%0A%0A%3CINSERT%20YOUR%20COMMENTS%2C%20STORIES%2C%20OR%20FEEDBACK%3E%0A%0AThanks%2C%0A%3CINSERT%20YOUR%20NAME%3E" target="_blank">send an email</a> if you have suggestions on features to implement or bugs to report.
 
 ### 🗪 Translations
 
