@@ -14,11 +14,11 @@ The following are some of the ways you can contribute:
 
 [Open an issue](https://github.com/hopeforhostages/hopeforhostages/issues/new) in this repository or <a href="mailto:info@hopeforhostages.com?cc=&amp;bcc=&amp;subject=Hope%20for%20Hostages%3A%20&amp;body=Hi%20Jonah%2C%0A%0A%3CINSERT%20YOUR%20COMMENTS%2C%20STORIES%2C%20OR%20FEEDBACK%3E%0A%0AThanks%2C%0A%3CINSERT%20YOUR%20NAME%3E" target="_blank">send an email</a> if you have suggestions on features to implement or bugs to report.
 
-### 🗪 Translations
+### ✏️ Translations and Editing
 
-Translation assistance is appreciated for the following tasks:
+Assistance is appreciated for the following tasks:
 
-* Translate more stories of hostages from Hebrew to English or other langauges
+* Translate from Hebrew or proofread stories of hostages in English or other languages
 * Translate the printables and/or website interface into more languages
 
 Please fill out [this form][1] and I will get back to you with ways you can help.
