@@ -4,7 +4,7 @@ On October 7, 2023, over 240 innocent civilians were taken into the Gaza Strip b
 
 This website provides information about the hostages, including their names, ages, nationality, photos, and current status. It also provides stats, allows filtering by various criteria, and generates printable posters and images for online sharing daily.
 
-🎗️ https://hopeforhostages.com
+🎗️ [https://hopeforhostages.com](https://hopeforhostages.com)
 
 ## Contributing
 
@@ -31,6 +31,6 @@ The code is in a private GitHub repository. The bulk of the website is written i
 
 ## External Links
 
-* Home page - https://hopeforhostages.com
-* Issue Tracker - https://github.com/hopeforhostages/hopeforhostages/issues/new
-* Facebook - https://www.facebook.com/profile.php?id=61554725831341
+* [Home Page](https://hopeforhostages.com)
+* [Issue Tracker](https://github.com/hopeforhostages/hopeforhostages/issues/new)
+* [Facebook Page](https://www.facebook.com/profile.php?id=61554725831341)
