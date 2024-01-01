@@ -34,3 +34,4 @@ The code is in a private GitHub repository. The bulk of the website is written i
 * [Home Page](https://hopeforhostages.com)
 * [Issue Tracker](https://github.com/hopeforhostages/hopeforhostages/issues/new)
 * [Facebook Page](https://www.facebook.com/profile.php?id=61554725831341)
+* [Twitter Page](https://twitter.com/hopeforhostages)
